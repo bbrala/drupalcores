@@ -24,6 +24,8 @@
     "jshint": "*",
     "jshint-stylish": "^1.0.0",
     "run-sequence": "^2.2",
+    "sass": "^1.46.0",
     "svgo": "*"
-  }
+  },
+  "dependencies": {}
 }
